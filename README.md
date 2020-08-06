@@ -23,8 +23,4 @@ It is part of a larger system (currently in construction), which will semi-autom
 
 This application is currently in a very early stage. There are lots of things to improve:
 
-- [ ] Replace custom Markdown parser with something more solid
-- [ ] Replace fake Mustache renderer with an actual implementation or use something else
-- [ ] Create actual templates for all the pages to be rendered
-- [ ] Extract the templates from this repository into a dedicated one (and maybe link it in here as submodule)
-- [ ] Integration with the component that pushes the pages into Wordpress
+**Check out the [open issues](https://github.com/FoldingCommunity/PageRenderer/issues) to find out more.**
