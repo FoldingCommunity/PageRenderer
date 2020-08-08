@@ -1,4 +1,4 @@
-<div>{{{ Together We Are Powerful - Folding@home }}}</div>
+<h2>{{{ Together We Are Powerful - Folding@home }}}</h2>
 <div>{{{ [Take me home](https://foldingathome.org/home) }}}</div>
 <div>{{{ TOGETHER, WE ARE POWERFUL }}}</div>
 <div>{{{ Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug. }}}</div>
