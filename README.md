@@ -13,7 +13,7 @@ It is part of a larger system (currently in construction), which will semi-autom
        $ git submodules init
        $ git submodules update
        
-   This will make sure that you have the latest version of all the translations.
+   This will make sure that you have the latest version of all the translations and templates.
    
 2. Just run the rendering script and it will dump the rendered pages into `output/`:
 
