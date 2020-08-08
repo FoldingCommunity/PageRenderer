@@ -3,5 +3,5 @@
 	url = https://github.com/FoldingCommunity/Translate
 
 [submodule "templates"]
-    path = templates
-    url = https://github.com/FoldingCommunity/WebsiteTemplates.git
+	path = templates
+	url = https://github.com/FoldingCommunity/WebsiteTemplates
