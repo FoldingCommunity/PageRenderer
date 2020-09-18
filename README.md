@@ -1,17 +1,17 @@
-# Folding @ home Page Renderer
+# Folding@home Page Renderer
 
 This application takes the translations from [FoldingCommunity/Translate](https://github.com/FoldingCommunity/Translate)
 and injects them into templates to render out HTML pages for all the languages we are supporting.
 
 It is part of a larger system (currently in construction), which will semi-automate the updating of the
-[Folding @ home website](https://foldingathome.org).
+[Folding@home website](https://foldingathome.org).
 
 ## Usage
 
 1. Make sure you initialized and updated the submodules
        
-       $ git submodules init
-       $ git submodules update
+       $ git submodule init
+       $ git submodule update
        
    This will make sure that you have the latest version of all the translations and templates.
    
